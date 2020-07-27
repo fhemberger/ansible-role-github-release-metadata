@@ -1,0 +1,7 @@
+galaxy_info:
+  role_name: github_release_metadata
+  author: Frederic Hemberger
+  description: Retrieves metadata of a release from GitHub
+  license: license (MIT)
+  min_ansible_version: 2.9
+  galaxy_tags: ['github']

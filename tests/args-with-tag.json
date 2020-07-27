@@ -1,0 +1,7 @@
+{
+  "ANSIBLE_MODULE_ARGS": {
+    "owner": "ansible",
+    "repo": "ansible",
+    "tag": "v2.5.0b1"
+  }
+}

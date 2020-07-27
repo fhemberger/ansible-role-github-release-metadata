@@ -1,0 +1,6 @@
+---
+name: 'Ansible Sanity'
+description: 'Run Ansible sanity tests'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

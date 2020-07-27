@@ -1,0 +1,6 @@
+---
+name: 'Ansible Module Test'
+description: 'Run Ansible module tests'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
