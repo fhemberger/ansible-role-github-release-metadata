@@ -16,9 +16,10 @@ DOCUMENTATION = '''
 ---
 module: github_release_metadata
 short_description: Retrieves metadata of a release from GitHub
-version_added: "2.9"
 description:
   - "Retrieves metadata of a release from GitHub"
+version_added: "1.0.0"
+author: Frederic Hemberger (@fhemberger)
 options:
   owner:
     description:
@@ -36,8 +37,6 @@ options:
       - Tag to retrieve, defaults to `latest`
     default: latest
     type: str
-author:
-    - Frederic Hemberger (@fhemberger)
 '''
 
 EXAMPLES = '''
